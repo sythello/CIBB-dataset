@@ -1,0 +1,250 @@
+手无寸铁
+1000
+Unarmed
+X: iron
+
+雪上加霜
+871
+Rub salt into the wound; exacerate
+X: snow frost
+
+背井离乡
+717
+(Be forced to) leave one's home
+X: well
+
+五花八门
+467
+Of a wide variety
+X: five flower eight door gate
+
+立竿见影
+342
+Have an immediate effect
+X: stick shadow
+
+烟消云散
+341
+Disappear, vanish
+X: cloud
+
+大刀阔斧
+239
+Bold, drastic, macroscopic, not consider much of the details
+X: knife axe
+
+不速之客
+225
+Uninvited guest; unwelcome guest
+X: speed
+
+冷嘲热讽
+200
+Sarcasm; irony
+X: cold hot
+
+迎刃而解
+196
+(Problem) be easily solved
+X: knife blade
+
+蛛丝马迹
+191
+Traces, clues
+X: spider horse
+
+亡羊补牢
+189
+Better late than never
+X: sheep goat
+
+说三道四
+168
+Gossip
+X: three four
+
+锦上添花
+167
+Embellish what is already beautiful
+X: flower
+
+马马虎虎
+155
+Careless / Just so-so, passable
+X: horse tiger
+
+胆战心惊
+151
+Be terror-stricken
+X: gut gall
+
+易如反掌
+147
+Very easy, a piece of cake (as easy as turning one's hand)
+X: hand
+
+开门见山
+144
+Come straight to the point/question
+X: door mountain
+
+胸有成竹
+127
+Have a well-thought-out plan
+X: chest bamboo
+
+蠢蠢欲动
+102
+Be restless to do something; be ready to do something
+X: stupid
+
+洗耳恭听
+101
+Be all ears; listen carefully
+X: wash
+
+五光十色
+95
+Colorful
+X: five ten
+
+九霄云外
+88
+Far, far away
+X: nine
+
+推心置腹
+86
+Sincerely; heart-to-heart
+X: push stomach belly
+
+谈笑风生
+85
+Talk cheerfully and humorously
+X: wind
+
+凤毛麟角
+85
+Extremely rare (as rare as the fur of pheonix and the horn of kylin)
+X: pheonix kylin
+
+灰飞烟灭
+83
+Vanish; be destroyed (like ashes and smoke)
+X: grey fly
+
+星罗棋布
+82
+Spread all over the place (like stars in the sky and men on the chessboard)
+X: star chess
+
+望尘莫及
+79
+Too far behind to catch up
+X: dust
+
+天马行空
+74
+In a powerful and unconstrained style
+X: sky horse
+
+呼之欲出
+74
+Vivid / Coming out soon
+X: call
+
+抛砖引玉
+71
+Make some introductory remarks to set the ball rolling
+X: brick jade gem stone
+
+添油加醋
+66
+Add highly coloured details; distort, exaggerate
+X: oil vinegar
+
+守株待兔
+64
+Wait around aimlessly for a windfall that is unlikely to come
+X: rabbit
+
+板上钉钉
+64
+Be fixed; be clinched
+X: board
+
+顺手牵羊
+60
+Walk off with sth.; steal sth. when walking by
+X: sheep goat
+
+呆若木鸡
+56
+Be dumb-struck (as a wooden chicken)
+X: wood wooden chicken
+
+生龙活虎
+54
+Full of energy
+X: dragon tiger
+
+罄竹难书
+53
+(Crimes) be too numerous to record
+X: bamboo
+
+九牛一毛
+49
+A drop in the ocean
+X: nine ox fur feather
+
+闭门造车
+45
+Carry out one's idea without communicating with the outside
+X: cart car
+
+老态龙钟
+43
+Very old; senile and doddering
+X: dragon bell clock
+
+行将就木
+39
+Going to die; one foot in grave
+X: wood
+
+鼠目寸光
+33
+Shortsighted
+X: mouse mice rat
+
+蜻蜓点水
+33
+Scratch the surface
+X: dragonfly water
+
+九死一生
+32
+A slim chance of living; extremely dangerous
+X: nine
+
+鱼龙混杂
+29
+Good and bad things mixed together
+X: fish dragon
+
+三六九等
+19
+Various grades and ranks
+X: three six nine
+
+沾花惹草
+7
+Be promiscuous; flirt around
+X: flower grass
+
+鸡飞狗跳
+7
+Great disorder; turmoil
+X: chicken dog
+
